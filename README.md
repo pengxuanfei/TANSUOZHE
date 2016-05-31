@@ -8,6 +8,8 @@ Git与TortoiseGit基本操作 http://blog.csdn.net/renfufei/article/details/4164
 
 廖雪峰的教程 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
 
+——卡在了创建版本库这个步骤无法进行
+
 Git客户端图文详解如何安装配置GitHub操作流程攻略 http://www.open-open.com/lib/view/open1409057886713.html#articleHeader2
 
 #### 相对系统：
