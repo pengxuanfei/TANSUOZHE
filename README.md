@@ -14,3 +14,7 @@ Git客户端图文详解如何安装配置GitHub操作流程攻略 http://www.op
 
 #### 相对系统：
 GIT权威指南 http://www.worldhello.net/gotgit/index.html
+
+#### 相关软件：
+TortoiseGit——win的git客户端，可幻化替代命令行
+Notepad++ ——用UTF-8编码来编程，替代win下的记事本
