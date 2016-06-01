@@ -18,3 +18,6 @@ GIT权威指南 http://www.worldhello.net/gotgit/index.html
 #### 相关软件：
 TortoiseGit——win的git客户端，可幻化替代命令行
 Notepad++ ——用UTF-8编码来编程，替代win下的记事本
+
+#### 小白在win系统下，用可视化客户端解决命令行：
+下载安装TortoiseGit
