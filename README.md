@@ -19,3 +19,6 @@ GIT权威指南 http://www.worldhello.net/gotgit/index.html
 - TortoiseGit——小白在win的git客户端，用可视化客户端解决命令行（下载安装TortoiseGit，参见入门级相关教程）
 
 - Notepad++ ——用UTF-8编码来编程，替代win下的记事本，解决编码错误问题（TortoiseGit安装程序中有自带）
+
+#### HTWAAG活动资料
+https://github.com/runwithcc/HTWAAG
